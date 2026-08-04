@@ -1,16 +1,23 @@
-## Hi there 👋
+# Nczlacz
+<h1 align="center">Hi! :hand: I'm Laci</h1>
+<h3 align="center">Passionate about microeconomics, econometrics & data science. Turning data into data into actionable insights.</h3> 
 
-<!--
-**Nclacz/Nclacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/lászló-n-0a13a9181" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  
+  <!-- R -->
+  <a href="https://www.rprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  </a>
+</p>
