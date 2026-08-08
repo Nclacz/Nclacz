@@ -1,6 +1,6 @@
-# Nczlacz
+# Nclacz
 <h1 align="center">Hi! :hand: I'm Laci</h1>
-<h3 align="center">Passionate about microeconomics, econometrics & data science. Turning data into data into actionable insights.</h3> 
+<h3 align="center">Passionate about microeconomics, econometrics & data science. Turning data into actionable insights.</h3> 
 
 <h3 align="left">Connect:</h3>
 <p align="left">
